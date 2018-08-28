@@ -7,7 +7,7 @@
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5"
   },
-  "homepage" : "https://leonardo-zyh.github.io/react-learn/build/index.html",
+  "homepage" : "https://leonardo-zyh.github.io/react-learn/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
